@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/loreanvictor/connective-html-sample#readme",
   "dependencies": {
-    "@connectv/html": "0.0.5"
+    "@connectv/html": "0.0.7"
   },
   "devDependencies": {
     "@types/node": "^13.5.0",

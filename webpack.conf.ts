@@ -11,6 +11,7 @@ const config : webpack.Configuration = {
   devServer: {
     contentBase: path.resolve(__dirname, './dist'),
     overlay: true,
+    open: true,
     port: 3000,
   },
   plugins: [
